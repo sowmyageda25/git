@@ -1,2 +1,2 @@
 # git
-practice session
+This is sowmya geda
